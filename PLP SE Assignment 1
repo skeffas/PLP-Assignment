@@ -1,0 +1,78 @@
+What is Software Engineering: 
+It is a field of computer science that employs structured and standardized practices to design, develop, test, and maintain software applications. It integrates principles from engineering and project management to ensure software systems are robust, efficient, and scalable. The ultimate goal is to create reliable, high-quality software that meets users' needs and performs efficiently within given constraints.
+
+How does software engineering differ from traditional programing: 
+Software engineering provides a holistic, structured approach to software development, ensuring quality, efficiency, and maintainability, while traditional programming primarily focuses on the act of writing code.
+
+Software Development Life Cycle (SDLC): Explain the various phases of the Software Development Life Cycle, Provide a brief description of each phase.
+SDLC consists of several phases that guide the development of software from initial conception to deployment and maintenance which are;
+Requirement Phase - gathering and analyzing the requirements from stakeholders to understand what the software needs to do.
+Design Phase - sentails defining the system architecture, components, interfaces, and data models.
+Coding Phase - actual source code is written based on the design specifications
+Testing Phase - verifying that the software functions as intended and identifying any defects. Can be done via unit, integration, system and user acceptance testing methods.
+Deployment Phase - software is deployed to the production environment where it becomes available to users.
+Operations / Maintenance Phase - software is in use and updated/upgraded to add new features and improve performance.
+
+Agile vs. Waterfall Models: Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Agile PM model is an iterative method of executing projects while Waterfal is a traditional method wherein one phase must be completed before proceeding to the next.
+Key Differences:
+Approach: Agile is iterative and adaptive while Waterfall is sequential and predictive.
+Flexibility: Agile is highly flexible & allows for changes at any stage while Waterfall is structured & changes are difficult and costly after initial phases.
+User Involvement: Agile embodies continuous involvement and feedback while Waterfall entails limited involvement until final delivery.
+Testing: Agile entails continous testing throughout the development process while Waterfall conducts testing after implementation is complete.
+Documentation: Agile focuses on working software over comprehensive documentation while Waterfall emphasises detailed documentation at each phase.
+Preffered scenario:
+Use Agile model for dynamic and fast-paced projects,projects with unclear or rapidly changing requirements, products that benefit from continuous improvement and frequent releases.
+Use WaterFall model for projects with clear, stable requirements with stringent regulatory needs, projects where the technology and tools are well understood and not expected to change.
+
+Requirements Engineering: What is requirements engineering? Describe the process and its importance in the software development lifecycle
+Requirements engineering is the process of gathering, analyzing, and documenting the needs and constraints of stakeholders to define the desired behavior and functionality of a software system. 
+Importnace of Requirements Engineering
+Alignment with User Needs: Ensures that software development efforts are aligned with the needs and expectations of end-users, delivering intended product.
+Foundation for Development: Serve as the foundation for software design and development, guiding decision-making.
+Effective Communication: Fosters shared understanding and alignment of project goals, leading to more successful outcomes.
+Risk Mitigation: Identifies and mitigate project risks early in the SDLC, reducing the likelihood of scope growth or project failure.
+Quality Assurance: Ensures overall quality assurance process by enabling effective testing and validation, thus enhancing customer satisfaction.
+
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Unit Testing: Involves testing individual components or modules of the software to ensure they function correctly in isolation.
+Integration Testing: Verifies that integrated components or modules work together as expected, testing interactions between them.
+System Testing: Tests the entire software system as a whole to ensure it meets specified requirements and functions correctly in its intended environment.
+Acceptance Testing: Validates the software against business requirements and user expectations, typically performed by end-users or stakeholders.
+Testing is crucial in software development because it helps identify defects early in the development process, ensuring that issues are addressed before the software is deployed to production. Additionally, testing enhances software quality, reliability, and performance, ultimately leading to increased customer satisfaction and reduced costs associated with post-release defects and maintenance.
+
+Version Control Systems: What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Version control systems (VCS) are tools used in software development to manage changes to source code, documents, and other files. They track modifications, facilitate collaboration among team members, and enable the management of different versions or branches of a project.
+Importance of VSC: 
+Fosters collaboration: Allows multiple developers to work on the same codebase simultaneously without conflicts, as changes are tracked and merged seamlessly.
+History and Audit Trail: Maintain a complete history of changes made to the codebase, enabling developers to understand why and when specific changes were made.
+Branching and Merging: facilitates branching, allowing developers to work on new features or experiment without affecting the main codebase. Merging branches back into the main codebase is also made easier.
+Backup and Recovery: Serves as a backup mechanism, ensuring that code and project files are not lost due to accidental deletions or errors.
+Code Quality and Stability: By tracking changes and enabling code review processes, VCS helps maintain code quality and stability by identifying and resolving issues early in the development process.
+Examples of VSC: Git, SVN, Microsoft Team Foundation Server (TFS) / Azure DevOps etc
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+The role of a software project manager is to oversee the planning, execution, and delivery of software projects within a specified timeframe and budget while ensuring they meet quality standards and stakeholder expectations.
+Key responsibilities include: Project Planning, Team Management,Communication, Risk Management, Quality Assurance, Budget and Resource Management.
+Challenges faced in managing software projects include: Technical debt, Risk and Uncertainty, Stakeholder Management, Resource Constraints, Scope Creep, etc.
+
+Software Maintenance: Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenance refers to the process of modifying, updating, and enhancing existing software applications to address defects, improve performance, adapt to changing requirements, and extend functionality over time.
+Different types of software maintenece:
+Corrective Maintenance:Involves identifying and fixing defects or errors in the software, typically reported by users or detected during testing.
+Adaptive Maintenance:Focuses on making changes to the software to adapt it to changes in the operating environment, such as updates to hardware, OS, or 3rd-party dependencies.
+Preventive Maintenance: Proactive maintenance aimed at identifying and addressing potential issues or risks in the software before they manifest as problems, thus reducing the likelihood of future failures or defects.
+Importance of Software Maintenance: Sustain software quality, enhance user satisfaction, cost saving, ensures compliance with regulatory and security standards.
+
+Ethical Considerations in Software Engineering: 
+What are some ethical issues that software engineers might face?: Privacy and data protection misuse, Intellectual Property breach, software quality and reliability defects, security breach, default on transparency and honesty, software accessibility issues etc
+REAL WORDL EXAMPLE: Volkswagen Emissions Scandal (2015):
+Issue: Volkswagen used software in diesel engines to detect when the vehicles were being tested for emissions and altered performance to meet regulatory standards, while exceeding emissions limits during normal operation.
+Ethical Concerns: Deception, manipulation of environmental data, and violation of regulatory standards.
+Impact: Resulted in billions of dollars in fines, legal actions, and a major loss of trust in the company.
+How can software engineers ensure they adhere to ethical standards in their work?: Ensure professional responsibility by adhering to ethical standards, incorporating ethical reviews, implement security best practices, adhere to quality assurance principles, environmental considerations / sustainability principles, transparent communication, education / training and awareness campaigns.
+
+
+
+
+
